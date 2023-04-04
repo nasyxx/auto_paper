@@ -13,7 +13,7 @@
 #+creator: Emacs 30.0.50 (Org mode 9.7-pre)
 #+cite_export:
 
-[[file:https://zenodo.org/badge/DOI/10.5281/zenodo.7796951.svg][https://doi.org/10.5281/zenodo.7796951]]
+[[https://doi.org/10.5281/zenodo.7796951][file:https://zenodo.org/badge/DOI/10.5281/zenodo.7796951.svg]]
 
 
 * Introduction
