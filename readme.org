@@ -13,6 +13,8 @@
 #+creator: Emacs 30.0.50 (Org mode 9.7-pre)
 #+cite_export:
 
+[[https://doi.org/10.5281/zenodo.7796951][file:https://zenodo.org/badge/DOI/10.5281/zenodo.7796951.svg]]
+
 
 * Introduction
 
@@ -164,13 +166,14 @@ Download and save daily papers.
 If you use this package, please cite it as:
 
 #+begin_src bibtex
-  @misc{https://doi.org/10.5281/zenodo.7796951,
-    doi = {10.5281/ZENODO.7796951},
-    url = {https://zenodo.org/record/7796951},
-    author = {Na,  Saiyang},
-    title = {nasyxx/auto_paper: v0.1.0},
-    publisher = {Zenodo},
-    year = {2023},
-    copyright = {Open Access}
+  @software{na_saiyang_2023_7796951,
+    author       = {Na, Saiyang},
+    title        = {Auto Paper: Download and save daily papers},
+    month        = apr,
+    year         = 2023,
+    publisher    = {Zenodo},
+    version      = {v0.1.0},
+    doi          = {10.5281/zenodo.7796951},
+    url          = {https://doi.org/10.5281/zenodo.7796951}
   }
 #+end_src
