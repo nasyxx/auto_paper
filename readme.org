@@ -158,3 +158,19 @@ Download and save daily papers.
   #     'categorie': ('cs.LG', 'cs.AI', 'cs.GT', 'stat.ML')
   # }
 #+end_src
+
+* Ref
+
+If you use this package, please cite it as:
+
+#+begin_src bibtex
+  @misc{https://doi.org/10.5281/zenodo.7796951,
+    doi = {10.5281/ZENODO.7796951},
+    url = {https://zenodo.org/record/7796951},
+    author = {Na,  Saiyang},
+    title = {nasyxx/auto_paper: v0.1.0},
+    publisher = {Zenodo},
+    year = {2023},
+    copyright = {Open Access}
+  }
+#+end_src
